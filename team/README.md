@@ -1,6 +1,6 @@
 # Ticketing System
 
-[<img src="https://ibb.co/JCPN7dz" width="100%">](https://youtu.be/rkPzfVmflCI)
+[<img src="https://i.ibb.co/BwRmZPg/image.png" width="100%">](https://youtu.be/rkPzfVmflCI)
 
 **Инструкции:** Изображението е линк към отборната презентация, качена в YouTube.<br>
 
